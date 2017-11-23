@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "root",
+    "password": "m7RR8T3BN3zqynz8",
+    "database": "foorera_api",
+    "host": "37.139.18.138",
+    "dialect": "mysql",
+    "fbAppId": "688061491216951",
+    "fbAppSecret": "1dbdcfed35318dbe03e7be836c20547d"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "fbAppId": "688061491216951",
+    "fbAppSecret": "1dbdcfed35318dbe03e7be836c20547d"
+  },
+  "production": {
+    "username": "root",
+    "password": "m7RR8T3BN3zqynz8",
+    "database": "foorera_api",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "fbAppId": "1754938791416534",
+    "fbAppSecret": "6b87b31bbb3ef58b97e580a5fa2d6afa"
+  }
+}
